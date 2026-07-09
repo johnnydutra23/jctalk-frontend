@@ -1,11 +1,11 @@
-import {User} from "./User";
+import { User } from './User'
 
-export type APISingin = {
-    user: User;
-    acess_token: string;
+export type APISignIn = {
+    user: User,
+    access_token: string
 }
 
-export type APISingup = {
-    user: User;
-    acess_token: string;
+export type APISignUp = {
+    user: User,
+    access_token: string
 }
