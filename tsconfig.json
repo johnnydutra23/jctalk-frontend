@@ -12,7 +12,7 @@
     "isolatedModules": true,
     "jsx": "preserve",
     "incremental": true,
-    "allowArbitraryExtensions": true,    // ← linha adicionada
+    "allowArbitraryExtensions": true, 
     "plugins": [
       {
         "name": "next"
